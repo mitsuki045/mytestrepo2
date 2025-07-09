@@ -2,6 +2,10 @@ package src;
 
 public class MyClass {
     public int add(int a) {
-        return a+1;
+        return a;
+    }
+
+   public int sub(int b) {
+        return b;
     }
 }
