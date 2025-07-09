@@ -6,7 +6,13 @@ public class MyClass {
         return a;
     }
 
-   public int sub(int b) {
+    public int sub(int b) {
         return b;
     }
+
+    @Deprecated
+    public int ano(int c) {
+        return c;
+    }
+
 }
