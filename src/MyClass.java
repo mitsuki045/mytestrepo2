@@ -6,8 +6,8 @@ public class MyClass {
         return a;
     }
 
-    public int sub(int b) {
-        return b;
+    public final int sub(int b) {
+        return String.valueOf(2 + b);;
     }
 
     @Deprecated
