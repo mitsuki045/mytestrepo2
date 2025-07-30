@@ -1,12 +1,8 @@
 package src;
 
 public class MyClass {
-    @Deprecated
-    public int add(int a) {
-        return a;
-    }
-
-    public final int sub(int b) {
+    
+    public final int sub(int b,int a) {
         return String.valueOf(2 + b);;
     }
 
