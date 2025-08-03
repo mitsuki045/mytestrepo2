@@ -15,10 +15,11 @@ public class MyClass {
     * 1つの整数を受け取ってそのまま返します。
     * @param a 整数値
     * @return 引数a
-    * @Deprecated
     */
-     public int doc(int d) {
-        return d;
+     public int renamedoc(int d) {
+        int a
+        a=1+1;
+        return d+1;
     }
 
 }
