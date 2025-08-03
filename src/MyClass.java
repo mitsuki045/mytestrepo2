@@ -2,7 +2,7 @@ package src;
 
 public class MyClass {
     
-    public final int renamesub(int b,int a) {
+    public final int resub(int b,int c) {
         return String.valueOf(2 + b);;
     }
 
