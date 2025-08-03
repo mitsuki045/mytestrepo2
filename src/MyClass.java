@@ -16,7 +16,8 @@ public class MyClass {
     * @param a 整数値
     * @return 引数a
     */
-     public int renamedoc(int d) {
+     public int redoc(int d) {
+         //　邪魔者用
         int a
         a=1+1;
         return d+1;
