@@ -2,12 +2,12 @@ package src;
 
 public class MyClass {
     
-    public final int sub(int b,int a) {
+    public final int renamesub(int b,int a) {
         return String.valueOf(2 + b);;
     }
 
     @Deprecated
-    public int ano(int c) {
+    public int renameano(int c) {
         return c;
     }
 
